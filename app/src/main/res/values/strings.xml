@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Projeto GPS</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="Configuração">Configuração</string>
+    <string name="Localização">Localização</string>
+    <string name="Sobre">Sobre</string>
+    <string name="title_activity_configuracao">Configuração</string>
+    <string name="FormatConfig">Configurar Formatação</string>
+    <string name="GrausDecimais">Graus Decimais</string>
+    <string name="GrausMinDecimais">Graus e Minutos Decimais</string>
+    <string name="GrauMinSecDecimais">Graus, Minutos e Segundos Decimais</string>
+</resources>
